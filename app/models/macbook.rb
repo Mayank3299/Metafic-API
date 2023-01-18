@@ -1,0 +1,2 @@
+class Macbook < ApplicationRecord
+end
